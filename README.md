@@ -41,8 +41,9 @@ _**Vet Clinic Database**_ a relational database to create the initial data struc
 
 - Create Database animals table to store animals' information
 - Insert data to the table and perform query to it
-- Update animals table by altering the rows.
-- Query multiple tables.
+- Update animals table by altering the rows and create more tables.
+- Primary key & foreign key mechanism for joining tables to model **`one-to-many`** relationships.
+- Join tables to model **`many-to-many`** relationships.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +121,6 @@ That's it! Congratulations, you have created your database and connected to it. 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add _**join table**_ for visits.
 - Database performance audit.
 - Add database schema diagram.
 
